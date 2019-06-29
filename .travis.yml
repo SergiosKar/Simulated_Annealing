@@ -4,4 +4,4 @@ python:
 - '3.6'
 install:
 - pip install -r requirements.txt
-script: python Sim_anneal.py
+script: python simulated_annealing.py
