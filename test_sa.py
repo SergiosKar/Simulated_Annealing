@@ -1,4 +1,4 @@
-from Sim_anneal import SimAnneal
+import Simulated_Annealing.Sim_anneal
 import csv
 import random
 import time
