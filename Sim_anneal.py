@@ -1,6 +1,6 @@
 import math
 import random
-import visualize_tsp
+import Simulated_Annealing.visualize_tsp
 import numpy as np
 
 
